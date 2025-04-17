@@ -1,0 +1,32 @@
+{
+  "docs": [
+    {
+      "uuid": "a50500f1-19a6-452c-85fa-b2e5a047895a",
+      "slug": "installation",
+      "path": "docs/INSTALLATION.md",
+      "title": "Installing Dyalog APL locally",
+      "blurb": "Learn how to install Dyalog APL locally to solve Exercism's exercises on your own machine"
+    },
+    {
+      "uuid": "29fd3349-2fb7-46a5-a22e-4f4601d41a60",
+      "slug": "learning",
+      "path": "docs/LEARNING.md",
+      "title": "How to learn Dyalog APL",
+      "blurb": "An overview of how to get started from scratch with Dyalog APL"
+    },
+    {
+      "uuid": "01805dea-38e4-429e-b404-1ac4ce27287c",
+      "slug": "tests",
+      "path": "docs/TESTS.md",
+      "title": "Testing on the Dyalog APL track",
+      "blurb": "Learn how to test your Dyalog APL exercises on Exercism"
+    },
+    {
+      "uuid": "7bfc6fa9-fccd-401a-8f5a-3b0a8102fea2",
+      "slug": "resources",
+      "path": "docs/RESOURCES.md",
+      "title": "Useful Dyalog APL resources",
+      "blurb": "A collection of useful resources to help you master Dyalog APL"
+    }
+  ]
+}
