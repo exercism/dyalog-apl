@@ -1,0 +1,7 @@
+MostCommonWord←{
+    words←' '(≠⊆⊢)⎕C ⍵
+    unique←∪words
+    counts←+/unique∘.≡words
+    best←⊃unique[⊃⍒counts]
+    '"',best,'" appears ',(⍕⌈/counts),' times'
+}
